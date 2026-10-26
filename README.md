@@ -18,6 +18,7 @@ I build practical, user-focused web and mobile applications—from responsive in
 
 - 💻 Full-stack developer focused on building complete, maintainable products
 - 🧩 Experienced across frontend, backend, databases, authentication, and deployment
+- 🤖 I build and operate my own AI agent team to automate workflows, coordinate specialized tasks, and increase product delivery productivity
 - 🎓 Information Technology background from [TAR UMT](https://tarc.edu.my/)
 - 🚀 Explore my work at [kleft.me](https://kleft.me)
 - 📚 Try my ebook management system at [epiread.kleft.me](https://epiread.kleft.me/)
@@ -55,6 +56,7 @@ I build practical, user-focused web and mobile applications—from responsive in
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication_%26_Authorization-6B7280?style=flat-square&logo=auth0&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square&logo=blueprint&logoColor=white)
+![AI Agent Orchestration](https://img.shields.io/badge/AI_Agent_Orchestration-7C3AED?style=flat-square&logo=openai&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
