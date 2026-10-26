@@ -76,7 +76,7 @@ I build practical, user-focused web and mobile applications—from responsive in
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaiquann&theme=tokyonight" height="165" alt="Kai Quan's GitHub statistics, including commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiquann&theme=tokyonight" height="165" alt="Kai Quan's repositories by language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquann&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" height="165" alt="Languages used across Kai Quan's public repositories" />
 </div>
 
 <div align="center">
