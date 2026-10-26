@@ -16,14 +16,14 @@ I build practical, user-focused web and mobile applications—from responsive in
 
 ## About Me
 
-- 💻 Full-stack developer focused on building complete, maintainable products
-- 🧩 Experienced across frontend, backend, databases, authentication, and deployment
-- 🤖 I build and operate my own AI agent team to automate workflows, coordinate specialized tasks, and increase product delivery productivity
-- 🎓 Information Technology background from [TAR UMT](https://tarc.edu.my/)
-- 🚀 Explore my work at [kleft.me](https://kleft.me)
-- 📚 Try my ebook management system at [epiread.kleft.me](https://epiread.kleft.me/)
-- 🏨 View my hotel platform at [hotel.kleft.me](https://hotel.kleft.me)
-- 🏸 Outside of development, I enjoy badminton
+- Full-stack developer focused on building complete, maintainable products
+- Experienced across frontend, backend, databases, authentication, and deployment
+- I build and operate my own AI agent team to automate workflows, coordinate specialized tasks, and increase product delivery productivity
+- Information Technology background from [TAR UMT](https://tarc.edu.my/)
+- Explore my work at [kleft.me](https://kleft.me)
+- Try my ebook management system at [epiread.kleft.me](https://epiread.kleft.me/)
+- View my hotel platform at [hotel.kleft.me](https://hotel.kleft.me)
+- Outside of development, I enjoy badminton
 
 ## Featured Work
 
