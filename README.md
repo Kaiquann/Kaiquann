@@ -102,5 +102,5 @@ I build practical, user-focused web and mobile applications—from responsive in
 - ✉️ Email: [kaiquan3011@gmail.com](mailto:kaiquan3011@gmail.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaiquann&label=Profile%20views&color=2563eb&style=flat" alt="Kaiquann profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kaiquann&amp;label=Profile+views&amp;color=2563eb&amp;style=flat" alt="Kaiquann profile views" />
 </div>
