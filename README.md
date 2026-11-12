@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kai Quan
+# Hi, I'm Liew Kai Quan
 
 ### Full-Stack Developer based in Malaysia
 
