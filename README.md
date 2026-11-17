@@ -27,14 +27,21 @@ I build practical, user-focused web and mobile applications—from responsive in
 
 ## Featured Work
 
+### Personal Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| **KYFI** | A Flutter personal finance app for tracking income, expenses, budgets, bills, and shared costs, with monthly PDF reports. | [Android on GitHub](https://github.com/Kaiquann/kyfi-downloads/releases/latest) |
+| **Filora** | An offline PDF and document editor for Windows and mobile. Annotate, reorder, and merge PDFs, and turn photos into PDFs. | [Windows on GitHub](https://github.com/Kaiquann/filora-desktop-downloads/releases/latest) · [Android on GitHub](https://github.com/Kaiquann/filora-app-downloads/releases/latest) |
+| **Nestly** | A student housing finder for comparing rooms near campus by budget and saving listings. Built with ASP.NET Core MVC, EF Core, and MySQL. | [View Nestly](https://kleft.me/projects/nestly) |
+
+### Portfolio & Demos
+
 | Project | Description | Link |
 | --- | --- | --- |
 | **Kleft Portfolio** | My portfolio, selected work, and developer profile. | [Visit kleft.me](https://kleft.me) |
 | **EpiRead** | A full-stack ebook management system for organizing, discovering, uploading, and reading digital books. | [Launch EpiRead](https://epiread.onrender.com) |
 | **Hotel Platform** | A full-stack hotel web application and live product demo. | [Visit hotel.kleft.me](https://hotel.kleft.me) |
-| **Nestly** | A student housing finder for comparing rooms near campus by budget and saving listings. Built with ASP.NET Core MVC, EF Core, and MySQL. | [View Nestly](https://kleft.me/projects/nestly) |
-| **KYFI** | A Flutter personal finance app for tracking income, expenses, budgets, bills, and shared costs, with monthly PDF reports. | [View KYFI](https://kleft.me/projects/kyfi) |
-| **Filora** | An offline PDF and document editor for Windows and mobile. Annotate, reorder, and merge PDFs, and turn photos into PDFs. | [View Filora](https://kleft.me/projects/filora) |
 
 ## Skills
 
