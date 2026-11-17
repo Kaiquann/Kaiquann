@@ -104,6 +104,7 @@ I build practical, user-focused web and mobile applications from responsive inte
 ## Connect With Me
 
 - 🌐 Portfolio: [kleft.me](https://kleft.me)
+- 💼 LinkedIn: [View my profile](https://www.linkedin.com/in/liewkaiquan/)
 - 💼 JobStreet: [View my profile](https://my.jobstreet.com/profile/liew-kaiquan-6dFF3YXF5V)
 - 📄 Résumé: [View my experience](https://www.canva.com/design/DAGzaCR2YLM/75nqvi5EzSiaLS3glmEEAQ/view?utm_content=DAGzaCR2YLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h14a709db63)
 - 📷 Instagram: [@kaiquan_3011](https://instagram.com/kaiquan_3011)
