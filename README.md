@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer based in Malaysia
 
-I build practical, user-focused web and mobile applications—from responsive interfaces to APIs, databases, authentication, and deployment.
+I build practical, user-focused web and mobile applications from responsive interfaces to APIs, databases, authentication, and deployment.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kleft.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kleft.me)
 [![EpiRead](https://img.shields.io/badge/EpiRead-Ebook_Platform-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)](https://epiread.onrender.com)
