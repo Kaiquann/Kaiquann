@@ -7,7 +7,7 @@
 I build practical, user-focused web and mobile applications—from responsive interfaces to APIs, databases, authentication, and deployment.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kleft.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kleft.me)
-[![EpiRead](https://img.shields.io/badge/EpiRead-Ebook_Platform-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)](https://epiread.kleft.me/)
+[![EpiRead](https://img.shields.io/badge/EpiRead-Ebook_Platform-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)](https://epiread.onrender.com)
 [![Hotel Platform](https://img.shields.io/badge/Hotel_Platform-Live_Demo-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://hotel.kleft.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Kaiquann-181717?style=for-the-badge&logo=github)](https://github.com/Kaiquann)
 [![Email](https://img.shields.io/badge/Email-kaiquan3011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquan3011@gmail.com)
@@ -21,7 +21,7 @@ I build practical, user-focused web and mobile applications—from responsive in
 - I build and operate my own AI agent team to automate workflows, coordinate specialized tasks, and increase product delivery productivity
 - Information Technology background from [TAR UMT](https://tarc.edu.my/)
 - Explore my work at [kleft.me](https://kleft.me)
-- Try my ebook management system at [epiread.kleft.me](https://epiread.kleft.me/)
+- Try my ebook management system at [epiread.onrender.com](https://epiread.onrender.com)
 - View my hotel platform at [hotel.kleft.me](https://hotel.kleft.me)
 - Outside of development, I enjoy badminton
 
@@ -30,10 +30,11 @@ I build practical, user-focused web and mobile applications—from responsive in
 | Project | Description | Link |
 | --- | --- | --- |
 | **Kleft Portfolio** | My portfolio, selected work, and developer profile. | [Visit kleft.me](https://kleft.me) |
-| **EpiRead** | A full-stack ebook management system for organizing, discovering, uploading, and reading digital books. | [Launch EpiRead](https://epiread.kleft.me/) |
+| **EpiRead** | A full-stack ebook management system for organizing, discovering, uploading, and reading digital books. | [Launch EpiRead](https://epiread.onrender.com) |
 | **Hotel Platform** | A full-stack hotel web application and live product demo. | [Visit hotel.kleft.me](https://hotel.kleft.me) |
-| **Nestly** | A student room finder built with ASP.NET Core MVC, Clean Architecture, EF Core, MySQL, Identity, Razor, and Tailwind CSS. | Private project |
-| **Finance Tracker** | A cross-platform personal finance application built with Flutter and Dart. | Private project |
+| **Nestly** | A student housing finder for comparing rooms near campus by budget and saving listings. Built with ASP.NET Core MVC, EF Core, and MySQL. | [View Nestly](https://kleft.me/projects/nestly) |
+| **KYFI** | A Flutter personal finance app for tracking income, expenses, budgets, bills, and shared costs, with monthly PDF reports. | [View KYFI](https://kleft.me/projects/kyfi) |
+| **Filora** | An offline PDF and document editor for Windows and mobile. Annotate, reorder, and merge PDFs, and turn photos into PDFs. | [View Filora](https://kleft.me/projects/filora) |
 
 ## Skills
 
