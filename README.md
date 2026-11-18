@@ -2,9 +2,11 @@
 
 # Hi, I'm Liew Kai Quan
 
-### Full-Stack Developer based in Malaysia
+### Software Engineer | C# and ASP.NET Core | Kuala Lumpur, Malaysia
 
-I build practical, user-focused web and mobile applications from responsive interfaces to APIs, databases, authentication, and deployment.
+I build C# and ASP.NET Core applications, REST APIs, and SQL Server backends, alongside Flutter mobile apps. My work supports production towing workflows for workshop staff, drivers, customers, and operations teams.
+
+**Available for a new role from March 2027.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kleft.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kleft.me)
 [![EpiRead](https://img.shields.io/badge/EpiRead-Ebook_Platform-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)](https://epiread.onrender.com)
@@ -19,11 +21,51 @@ I build practical, user-focused web and mobile applications from responsive inte
 - Full-stack developer focused on building complete, maintainable products
 - Experienced across frontend, backend, databases, authentication, and deployment
 - I build and operate my own AI agent team to automate workflows, coordinate specialized tasks, and increase product delivery productivity
-- Information Technology background from [TAR UMT](https://tarc.edu.my/)
+- First Class Honours graduate in Software Systems Development from [TAR UMT](https://tarc.edu.my/)
 - Explore my work at [kleft.me](https://kleft.me)
 - Try my ebook management system at [epiread.onrender.com](https://epiread.onrender.com)
 - View my hotel platform at [hotel.kleft.me](https://hotel.kleft.me)
 - Outside of development, I enjoy badminton
+
+## Experience
+
+### Bantu2u Holdings — Full-Stack & Mobile Application Developer
+January 2026 – Present
+
+- Developed features for two **C# / ASP.NET Core MVC portals** and contributed to **five Flutter applications** for towing operations.
+- Delivered walk-in registration and case management, and built customer and vehicle document approval workflows with **SignalR alerts**.
+- Implemented **voucher, SOS, and dispatch modules** for assigning workshops and drivers and monitoring driver progress.
+- Integrated GPS coordinates with **Google Maps APIs** for routes and ETAs, using **SignalR and Firebase Cloud Messaging (FCM)** to distribute location, ETA, and case updates across driver, administrator, and customer interfaces.
+- Developed **REST API endpoints and SQL Server stored procedures**, and refactored API logic to improve processing efficiency.
+- Configured application endpoints and application pools on **AWS-hosted servers**, maintained environment-specific ASP.NET Core settings, and configured Git exclusions for environment-specific files.
+- Validated endpoints with **Postman** and manual browser checks; established GitHub repositories and the team's Git branching workflow.
+
+### LN Worldwide Resource — Developer Intern
+November 2023 – January 2024 · Kuala Lumpur
+
+- Maintained WordPress sites and plugins, translated designers' layouts into responsive pages, and implemented PHP interface changes and basic website functionality.
+- Configured workstations with Deep Freeze, tested VeraCrypt disk encryption, and provided remote troubleshooting through AnyDesk.
+- Wrote workstation setup and software installation guides.
+
+## Education
+
+**Tunku Abdul Rahman University of Management and Technology (TAR UMT)**
+
+- **Bachelor of Information Technology (Honours) in Software Systems Development** — July 2024 – July 2026 · First Class Honours · Final-semester GPA: 4.00
+- **Diploma in Information Technology** — July 2022 – July 2024 · CGPA: 3.58
+- **Training:** AWS Academy Graduate – Cloud Architecting (Training Badge)
+- **Languages:** Chinese, English, Malay, Cantonese
+
+### Academic Projects
+
+| Project | Technologies | Contribution |
+| --- | --- | --- |
+| [**EpiRead — Final-year project**](https://github.com/Kaiquann/Epiread) | ASP.NET | Built client-side and backend modules for author publishing, reader access, and discussion forums. |
+| [**Hotel Reservation System**](https://github.com/Kaiquann/HotelReservationSystem) | C#, ASP.NET | Developed guest-facing features and server-side logic for room browsing, availability checks, and online reservations in a two-person team. |
+| [**Furniture Shopping System**](https://github.com/Kaiquann/FurnitureShoppingSystem) | PHP | Built an e-commerce storefront for furniture shopping. |
+| **Music Instrument System** | Java | Developed backend functionality for administrator and customer modules. |
+| **Point-of-Sale System** | Java | Applied object-oriented programming principles to implement point-of-sale functionality. |
+| **Payroll System** | C | Contributed approximately 70% of the coding for employee records and salary management in a team project. |
 
 ## Featured Work
 
@@ -61,6 +103,7 @@ I build practical, user-focused web and mobile applications from responsive inte
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication_%26_Authorization-6B7280?style=flat-square&logo=auth0&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square&logo=blueprint&logoColor=white)
@@ -79,6 +122,8 @@ I build practical, user-focused web and mobile applications from responsive inte
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Cloud, Design & Tools
+
+**Integrations and validation:** Google Maps APIs · Firebase Cloud Messaging (FCM) · Postman
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -106,7 +151,7 @@ I build practical, user-focused web and mobile applications from responsive inte
 - 🌐 Portfolio: [kleft.me](https://kleft.me)
 - 💼 LinkedIn: [View my profile](https://www.linkedin.com/in/liewkaiquan/)
 - 💼 JobStreet: [View my profile](https://my.jobstreet.com/profile/liew-kaiquan-6dFF3YXF5V)
-- 📄 Résumé: [View my experience](https://www.canva.com/design/DAGzaCR2YLM/75nqvi5EzSiaLS3glmEEAQ/view?utm_content=DAGzaCR2YLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h14a709db63)
+- 📄 Résumé: [Download my latest résumé](https://kleft.me/assets/Liew-Kai-Quan-Resume.pdf)
 - 📷 Instagram: [@kaiquan_3011](https://instagram.com/kaiquan_3011)
 - ✉️ Email: [kaiquan3011@gmail.com](mailto:kaiquan3011@gmail.com)
 
